@@ -59,5 +59,10 @@ form:
         - display: thankyou
 ---
 
+Mail::send('emails.contact', $data, function($message) use ($data){
+        $message->from($data['email']);
+        $message->to('example@domain.com');
+        $message->subject($data['subject']);
+    });
 
 Copyright © dkam.me 2022
