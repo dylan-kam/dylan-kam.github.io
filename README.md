@@ -1,4 +1,4 @@
 # dkam.me
 my website
-[link](https://dkam.me)
+[dkam.tech](https://dkam.tech)
 
