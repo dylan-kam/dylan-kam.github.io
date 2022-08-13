@@ -1,5 +1,5 @@
 # dkam
 
 my website
-[dkam.tech](https://dkam.tech)
+[current link](https://dylan-kam.github.io/)
 
